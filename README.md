@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @kolekarom
 
+# 👋 Hi, I'm Om Kolekar!  
+🚀 Passionate Developer | 🔥 Tech Enthusiast | 🎯 Problem Solver  
 
-<!--- 
-kolekarom/kolekarom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack  
+🔹 **Languages:** C++, Java, JavaScript, Swift, Python  
+🔹 **Web Development:** HTML, CSS, Node.js, Firebase  
+🔹 **Databases:** MySQL, MongoDB, Realm  
+🔹 **Cloud & DevOps:** AWS (EC2, Lambda), Firebase  
+
+## 📌 Projects  
+💡 **[Dynamic Travel Itinerary Planner](#)** – Built with my team "Responsive Rangers" ✈️  
+💡 **[Medical Inventory Management System](#)** – With Om Kolekar, Ritesh Mane, and Soham Kulkarni 🏥  
+💡 **[Gym Fitness App](#)** – Includes BMI & Body Fat Calculator 💪  
+
+## 📚 Learning  
+🎯 Currently exploring **AI, DSA, and Database Systems**  
+📖 Reading **1 book per week** for self-improvement  
+
+## 📫 Connect With Me  
+🔗 [GitHub](https://github.com/OmKolekar)  
+🔗 [LinkedIn](#)  
+🔗 [Portfolio](#)  
+
+🚀 _“Keep building, keep learning!”_ ✨
