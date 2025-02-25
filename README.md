@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stack  
 🔹 **Languages:** C++, Java, JavaScript, Swift, Python  
-🔹 **Web Development:** HTML, CSS, Node.js, Firebase  
+🔹 **Web Development:** HTML, CSS, React.js , Node.js, Firebase  
 🔹 **Databases:** MySQL, MongoDB, Realm  
 🔹 **Cloud & DevOps:** AWS (EC2, Lambda), Firebase  
 
