@@ -18,8 +18,8 @@
 📖 Reading **1 book per week** for self-improvement  
 
 ## 📫 Connect With Me  
-🔗 [GitHub](https://github.com/OmKolekar)  
-🔗 [LinkedIn](#)  
+🔗 [GitHub](https://github.com/kolekarom)  
+🔗 [LinkedIn](https://www.linkedin.com/in/om-kolekar/)  
 🔗 [Portfolio](#)  
 
 🚀 _“Keep building, keep learning!”_ ✨
