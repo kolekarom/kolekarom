@@ -3,19 +3,19 @@
 🚀 Passionate Developer | 🔥 Tech Enthusiast | 🎯 Problem Solver  
 
 ## 🛠️ Tech Stack  
-🔹 **Languages:** C++, Java, JavaScript, Swift, Python  
-🔹 **Web Development:** HTML, CSS, React.js , Node.js, Firebase  
-🔹 **Databases:** MySQL, MongoDB, Realm  
-🔹 **Cloud & DevOps:** AWS (EC2, Lambda), Firebase  
+🔹 Languages: C++, Java, JavaScript, Python  
+🔹 Web Development: HTML, CSS, React.js , Node.js 
+🔹 Databases: MySQL, MongoDB, Realm  
+🔹 Cloud & DevOps: AWS (EC2, Lambda)
 
 ## 📌 Projects  
-💡 **[Dynamic Travel Itinerary Planner](#)** – Built with my team "Responsive Rangers" ✈️  
-💡 **[Medical Inventory Management System](#)** – With Om Kolekar, Ritesh Mane, and Soham Kulkarni 🏥  
-💡 **[Gym Fitness App](#)** – Includes BMI & Body Fat Calculator 💪  
+💡 [Dynamic Travel Itinerary Planner](#) – Built with my team "Responsive Rangers" ✈️  
+💡 [Medical Inventory Management System](#) – With Om Kolekar, Ritesh Mane, and Soham Kulkarni 🏥  
+💡 [Gym Fitness App](#) – Includes BMI & Body Fat Calculator 💪  
 
 ## 📚 Learning  
-🎯 Currently exploring **AI, DSA, and Database Systems**  
-📖 Reading **1 book per week** for self-improvement  
+🎯 Currently exploring AI, DSA, and Database Systems  
+📖 Reading 1 book per week for self-improvement  
 
 ## 📫 Connect With Me  
 🔗 [GitHub](https://github.com/kolekarom)  
