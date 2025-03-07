@@ -3,7 +3,7 @@
 🚀 Passionate Developer | 🔥 Tech Enthusiast | 🎯 Problem Solver  
 
 ## 🛠️ Tech Stack  
-🔹 Languages: C++, Java, JavaScript, Python  
+🔹 Languages: C++, JavaScript, Python  
 🔹 Web Development: HTML, CSS, React.js , Node.js 
 🔹 Databases: MySQL, MongoDB, Realm  
 🔹 Cloud & DevOps: AWS (EC2, Lambda)
