@@ -10,7 +10,7 @@
 
 ## 📌 Projects  
 💡 [Dynamic Travel Itinerary Planner](#) – Built with my team "Responsive Rangers" ✈️  
-💡 [Medical Inventory Management System](#) – With Om Kolekar, Ritesh Mane, and Soham Kulkarni 🏥  
+💡 [track Your Job Application](https://get-job-beige.vercel.app/) – By - Om Kolekar 
 💡 [Gym Fitness App](#) – Includes BMI & Body Fat Calculator 💪  
 
 ## 📚 Learning  
