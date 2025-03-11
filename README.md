@@ -10,7 +10,7 @@
 
 ## 📌 Projects  
 💡 [Dynamic Travel Itinerary Planner](#) – Built with my team "Responsive Rangers" ✈️  
-🔗 [track-your-job](https://get-job-beige.vercel.app/)
+🔗 [track-your-job](https://get-job-beige.vercel.app/) - By Om Kolekar
 💡 [Gym Fitness App](#) – Includes BMI & Body Fat Calculator 💪  
 
 ## 📚 Learning  
