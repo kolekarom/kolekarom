@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Om Kolekar!  
-🚀 Passionate Developer | 🔥 Tech Enthusiast | 🎯 Problem Solver  
+🚀 Passionate Developer | 🔥 Tech Enthusiast | 🎯 Problem Solver 
 
 ## 🛠️ Tech Stack  
 🔹 Languages: C++, JavaScript, Python 
