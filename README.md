@@ -42,21 +42,3 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 </p>
 
 ---
-
-## 🧠 Projects & Scripts
-
-### 📌 Outlier Detection in Python
-
-```python
-import numpy as np
-
-def detect_outliers(data):
-    q1, q3 = np.percentile(data, [25, 75])
-    iqr = q3 - q1
-    lower_bound = q1 - 1.5 * iqr
-    upper_bound = q3 + 1.5 * iqr
-    return [x for x in data if x < lower_bound or x > upper_bound]
-
-# Example usage
-data = [12, 18, 25, 7, 10, 15, 8, 19, 3, 100, 16]
-print("Outliers detected:", detect_outliers(data))
