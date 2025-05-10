@@ -49,10 +49,5 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 
 ---
 
-## 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolekarom&theme=github-compact&hide_border=true&radius=8" alt="Om Kolekar GitHub Activity Graph" />
-</p>
 
----
