@@ -11,7 +11,7 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 - **Languages:** C++, JavaScript, Python  
 - **Web Development:** HTML, CSS, React.js, Node.js  
 - **Databases:** MySQL, MongoDB, Realm  
-- **Cloud & DevOps:** AWS (EC2, Lambda)
+- **Cloud & DevOps:** AWS (EC2, Lambda, S3)
 
 ---
 
