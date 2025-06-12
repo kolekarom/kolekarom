@@ -20,6 +20,8 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 - 🔗 [GitHub](https://github.com/kolekarom)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/om-kolekar/)  
 - 🔗 [Portfolio](https://portfolio-beige-six-45.vercel.app/)
+- 🔗 [Leetcode](https://leetcode.com/u/kolekarom/)
+
 
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats
