@@ -1,5 +1,3 @@
-![Om Kolekar's GitHub Banner](https://github.com/kolekarom/kolekarom/blob/main/banner.png)
-
 # 👋 Hi, I'm Om Kolekar!
 
 I'm a passionate developer from India with a strong interest in full-stack web development and backend engineering. I enjoy solving real-world problems through code and continuously learning new technologies to enhance my skills and build scalable solutions.
@@ -17,7 +15,6 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 
 ## 📫 Connect With Me
 
-- 🔗 [GitHub](https://github.com/kolekarom)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/om-kolekar/)  
 - 🔗 [Portfolio](https://portfolio-beige-six-45.vercel.app/)
 - 🔗 [Leetcode](https://leetcode.com/u/kolekarom/)
