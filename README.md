@@ -6,9 +6,11 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 
 ### 🛠 &nbsp;Tech Stack
 
-#### Programming Languages  
+
 
 <div align="center">
+
+#### Programming Languages  
 
 <!-- Core Web -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
