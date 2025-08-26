@@ -8,11 +8,19 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 
 #### Programming Languages  
 
+<div align="center">
+
 <!-- Core Web -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <!-- Structure of the web -->
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) <!-- Styling and layout -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <!-- Web interactivity -->
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <!-- Scalable frontend development -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
 
 <!-- Backend / General Purpose -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!-- Scripting, ML, AI, automation -->
@@ -43,12 +51,12 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 ![MySQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) &nbsp;
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 
-
+</div>
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/om-kolekar/)  
-- 🔗 [Portfolio](https://portfolio-beige-six-45.vercel.app/)
-- 🔗 [Leetcode](https://leetcode.com/u/kolekarom/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-kolekar/)  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-beige-six-45.vercel.app/)  
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/kolekarom/)  
 
 
 ---
