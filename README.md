@@ -53,14 +53,15 @@ I'm a passionate developer from India with a strong interest in full-stack web d
 ![MySQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) &nbsp;
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 
-
+</div">
+<div align="center">
  📫 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-kolekar/)  
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-beige-six-45.vercel.app/)  
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/kolekarom/)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-kolekar/)  
+ [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-beige-six-45.vercel.app/)  
+ [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/kolekarom/)  
 
-</div">
+</div>
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats
 
