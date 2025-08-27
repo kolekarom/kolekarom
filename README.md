@@ -68,9 +68,10 @@ I enjoy solving real-world problems through code, building scalable solutions, a
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kolekarom&theme=modern-lilac2&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=1000&card_height=200" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=kolekarom&theme=modern-lilac2&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
   </a>
 </p>
+
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/kolekarom">
