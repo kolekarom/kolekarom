@@ -52,17 +52,6 @@ I enjoy solving real-world problems through code, building scalable solutions, a
 
 ---
 
-## 📫 Connect With Me  
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-kolekar/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-beige-six-45.vercel.app/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/kolekarom/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/kolekar_om)
-
-
-</div>
 
 ---
 
