@@ -92,3 +92,5 @@ I enjoy solving real-world problems through code, building scalable solutions, a
 </div>
 
 ---
+
+![snake gif](https://github.com/kolekarom/kolekarom/blob/output/github-snake.svg)
