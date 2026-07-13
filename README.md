@@ -1,6 +1,16 @@
+<!-- ========================= -->
+<!-- 🐍 GitHub Contribution Snake -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kolekarom/kolekarom/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 # 👋 Hi, I'm Om Kolekar!
 
-I'm a passionate developer from India with a strong interest in **full-stack web development** and **backend engineering**.  
+I'm a passionate developer from India with a strong interest in **full-stack web development** and **backend engineering**.
 I enjoy solving real-world problems through code, building scalable solutions, and continuously learning new technologies 🚀.
 
 ---
